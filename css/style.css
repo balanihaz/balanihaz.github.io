@@ -975,7 +975,7 @@ font-weight:600;
     width: 100%;
 }
 .offer-gallery-img1 {
-    background: url(../images/g-bed2.jpg)no-repeat 0px 0px;
+    background: url(../images/g-bed2.png)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -2065,7 +2065,7 @@ h3.tittle-two{
     margin: 0.5em 0;
 	}
 	.offer-gallery-img1 {
-    background: url(../images/g-bed2.jpg)no-repeat 0px 0px;
+    background: url(../images/g-bed2.png)no-repeat 0px 0px;
     min-height: 400px;
 	}
 	.offer-gallery-img2 {
